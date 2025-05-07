@@ -1,0 +1,47 @@
+When do a user needs to register to Bell Application?
+Please select at most 2 options.
+
+Existing customer with Bell User Profile
+
+Existing customer without Bell User Profile
+
+New customer with Bell User Profile
+
+ New customer without Bell User Profile
+2.Why registration is required for Bell User?
+ 
+
+. To activate the service
+
+2. To verify only the order status & usage
+
+3. To verify the entire profile, order, Billing, Usage, service details & perform change to services exist 
+
+4. To validate the profile information & check the emails
+3.What is the purpose of collecting the Marketing preferences?
+
+To send any communication in specific language
+
+To send marketing communication based on the services
+
+ To show only the customer intended messages
+
+Target customer with multiple marketing communication irrespective of the preference
+4.What is the BSS function from the following?
+
+Comprises the different interconnected software applications that a given telecom operator will use to manage and maintain their network infrastructure.
+
+Helps CSPs monitor, control, and optimize their network performance to ensure seamless service delivery to it's customers.
+
+Provides CSPs with valuable insights into their network performance, customer behavior, and service quality.
+
+Handles customer transactions, product catalogs, billing, and other critical functions.
+5.Which one is not the "Product" in the below available options?
+
+Broadband modem
+
+Caller ID
+
+Jio 299 Plan
+
+Private Branch Exchange (PBX)
