@@ -1,0 +1,41 @@
+Which system is responsible for managing the Mobility Usage Alert? 
+
+CCE
+
+ARC
+
+WAC
+
+NM1
+2.Add-ons are Part of?
+
+Offers
+
+Rate plans
+
+Device configuration
+
+Catalog
+3.Who have the control on shared data?
+
+Subscribers
+
+Account owner
+
+Bell system
+
+None of the above
+4.What is the eligibility period for a Full Hardware Upgrade for an existing mobility customer? 
+
+1 year
+
+2.5 years
+
+1.5 years
+
+2 years
+5.Is a mobility user allowed to transition from a physical SIM to an eSIM, and vice versa? 
+
+True
+
+False
