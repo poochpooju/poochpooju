@@ -1,0 +1,47 @@
+1.What are the relevant hardware upgrade eligibility type?
+Please select 2 options.
+
+Mid term contract hardware upgrade
+
+Early eligible for hardware upgrade
+
+Fully eligible for hardware upgrade
+
+Partial hardware upgrade
+2.You have the option to perform an early upgrade for your device as part of our special campaign. Please select the relevant hardware eligibility type to proceed.
+
+Mid term contract hardware upgrade
+
+Fully eligible for hardware upgrade
+
+Early eligible for specific hardware upgrade 
+
+Partial hardware upgrade
+3.What the two effective date options available in myBell mobility change path?
+Please select 2 options.
+
+Next Date
+
+Current Date
+
+Next Billing Date
+
+Previous Billing Date
+4.Which Bell travel plan lets you use your basic plan data while traveling?
+
+Roam Better
+
+Roam Better - with home data
+
+Travel Data Pass
+
+Caribbean and Mexico 7-day Travel Pass
+5.Which of the following is an incompatibility in Bell Mobility’s rate plan or add-ons change flow?
+
+Changing from a monthly plan to a prepaid plan
+
+Adding a new data add-on while keeping an old one
+
+Selecting an effective date beyond the next billing cycle
+
+Upgrading a device while keeping the old rate plan
